@@ -8,6 +8,6 @@
 
 ## 10/25/2025 - Planing   
 
-This idea popped into my head after watching Blade Runner—it’s like a heavy-duty, melting brain! Inspired by the battle bot, I sketched out a CAD design for my very first melti brain. I had a bit of a challenge figuring out how to make the blades work, but I managed to get it to work in the end.![Screenshot 2025-10-25 at 9.37.28 PM (2)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1b007bebe48f4367567d1c7c02304e6ef944f177/Screenshot%202025-10-25%20at%209.37.28%E2%80%AFPM%20(2).png)
+This idea popped into my head after watching Blade Runner—it’s a heavy weight melty brain! Inspired by the battle bot, I sketched out a CAD design for my very first melti brain. I had a bit of a challenge figuring out how to make the blades work, but I managed to get it to work in the end.![Screenshot 2025-10-25 at 9.37.28 PM (2)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1b007bebe48f4367567d1c7c02304e6ef944f177/Screenshot%202025-10-25%20at%209.37.28%E2%80%AFPM%20(2).png)
   
 
