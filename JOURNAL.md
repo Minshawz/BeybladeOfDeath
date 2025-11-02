@@ -11,9 +11,14 @@
 This idea popped into my head after watching Blade Runner—it’s a heavy weight melty brain! Inspired by the battle bot, I sketched out a CAD design for my very first melti brain. I had a bit of a challenge figuring out how to make the blades work, but I managed to get it to work in the end.![Screenshot 2025-10-25 at 9.37.28 PM (2)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1b007bebe48f4367567d1c7c02304e6ef944f177/Screenshot%202025-10-25%20at%209.37.28%E2%80%AFPM%20(2).png)
   
 
-## 11/2/2025 - Problem  
+## 11/2/2025 12:13 AM - Problem  
 
 I’m trying to print a demo version at the school library printer, but the print bed doesn’t quite fit the full build. So, I’ve spent hours redesigning it, hoping it’ll fit all the hardware. If it does, it’ll be a super tight space! The only way to be sure is to print it out!![Screenshot 2025-11-02 at 12.12.46 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe034a13da8b1a5dfe0518c38c675d87a4f86637/Screenshot%202025-11-02%20at%2012.12.46%E2%80%AFAM.png)
 
+  
+
+## 11/2/2025 12:17 AM - Redesign   
+
+So, when I popped into the school library, they mentioned my 3D print needed a bit more filleting. I could tweak the infill from 25% to 10%, but I’m a little concerned it might crack easily when I test it. That’s why I decided to redesign it to cut down on the filleting as much as possible. I did this by squeezing out as much solid space as I could from everywhere, even the wheels! ![Screenshot 2025-11-02 at 12.17.27 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--0c390c0abdc81866ea1bbaba036c660aa957ba77/Screenshot%202025-11-02%20at%2012.17.27%E2%80%AFAM.png)
   
 
